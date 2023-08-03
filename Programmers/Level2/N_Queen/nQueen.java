@@ -1,4 +1,4 @@
-package N_Queen;
+package Level2.N_Queen;
 
 public class nQueen {
     static int answer=0;
